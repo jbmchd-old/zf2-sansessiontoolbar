@@ -1,5 +1,5 @@
 {
-    "name": "jbmchd/sansessiontoolbar",
+    "name": "jbmchd/zf2-sansessiontoolbar",
     "type": "library",
     "description": "ZF2/ZF3 Session Toolbar for ZendDeveloperTools ",
     "keywords": ["session","zf2","zf3"],
